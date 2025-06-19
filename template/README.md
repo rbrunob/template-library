@@ -30,5 +30,5 @@ npx @nouarlib/library-template
 
 ## 🧑‍💻 Criado por
 
-| **![rbrunob](https://github.com/rbrunob) - Bruno Braga Ramos**  
+| **[rbrunob](https://github.com/rbrunob) - Bruno Braga Ramos**  
 Feito para facilitar o inicio de projetos library
