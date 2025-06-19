@@ -8,6 +8,7 @@
   "files": [
     "dist"
   ],
+  "description": "A React component library to implement the PBM (Pharmacy Benefit Manager) model.",
   "scripts": {
     "dev": "vite",
     "build": "tsc",
