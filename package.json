@@ -1,6 +1,6 @@
 {
   "name": "@nouarlib/library-template",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "bin": {
     "create-nouar-library": "index.js"
   },
