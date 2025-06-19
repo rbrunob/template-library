@@ -14,7 +14,7 @@
     "build": "tsc",
     "lint": "eslint .",
     "preview": "vite preview",
-    "publishnpm": "pnpm run build && pnpm version patch && pnpm publish --access public",
+    "release": "pnpm run build && pnpm version patch && pnpm publish --access public",
     "test": "jest",
     "storybook": "storybook dev -p 6006",
     "build-storybook": "storybook build"
